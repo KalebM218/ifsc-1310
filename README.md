@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>UA Little Rock Overview</title><!--this allows the text you put inside to appear at the top of the page-->
+        <title>UA Little Rock Overview</title> <!--this allows the text you put inside to appear at the top of the page-->
         <meta charset="utf-8"/> <!--this sets character encoding-->
         <meta name="description" content="this is a test run assignment for the class"/><!--this just gives a short description of the page-->
         <meta name="author" content="Kaleb Mackie"/><!--states the authors name-->
