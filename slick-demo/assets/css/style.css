@@ -6,7 +6,7 @@ body {
 }
 
 .slider {
-    width: 60%;       /* Make slider smaller */
+    width: 60%;       
     margin: 50px auto;
 }
 
@@ -15,17 +15,17 @@ body {
     padding: 15px;
     border-radius: 8px;
     text-align: center;
-    width: 80%;       /* Card is smaller inside the slider */
-    margin: 0 auto;   /* Center card */
+    width: 80%;     
+    margin: 0 auto;   
 }
 
 .slider .card img {
-    width: 100%;      /* Fit card width */
+    width: 100%;     
     border-radius: 8px;
     margin-bottom: 10px;
 }
 
-/* Slick arrows */
+
 .slick-prev, .slick-next {
     color: white;
 }
@@ -34,7 +34,7 @@ body {
     color: #ffcc00;
 }
 
-/* Slick dots */
+
 .slick-dots li button:before {
     color: white;
 }
