@@ -1,0 +1,44 @@
+body {
+    background-color: #2e2e2e;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.slider {
+    width: 60%;       /* Make slider smaller */
+    margin: 50px auto;
+}
+
+.slider .card {
+    background-color: #3a3a3a;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    width: 80%;       /* Card is smaller inside the slider */
+    margin: 0 auto;   /* Center card */
+}
+
+.slider .card img {
+    width: 100%;      /* Fit card width */
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+/* Slick arrows */
+.slick-prev, .slick-next {
+    color: white;
+}
+
+.slick-prev:hover, .slick-next:hover {
+    color: #ffcc00;
+}
+
+/* Slick dots */
+.slick-dots li button:before {
+    color: white;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #ffcc00;
+}
