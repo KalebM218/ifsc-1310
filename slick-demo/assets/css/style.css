@@ -15,16 +15,15 @@ body {
     padding: 15px;
     border-radius: 8px;
     text-align: center;
-    width: 80%;     
+    width: 80%;       
     margin: 0 auto;   
 }
 
 .slider .card img {
-    width: 100%;     
+    width: 100%;      
     border-radius: 8px;
     margin-bottom: 10px;
 }
-
 
 .slick-prev, .slick-next {
     color: white;
@@ -33,7 +32,6 @@ body {
 .slick-prev:hover, .slick-next:hover {
     color: #ffcc00;
 }
-
 
 .slick-dots li button:before {
     color: white;
